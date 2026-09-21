@@ -1,0 +1,20 @@
+[
+  {
+    "id":"piracanjuba",
+    "date":"2026-09-21",
+    "tags":["Etimologia","Bichos","Brasil"],
+    "title":"Piracanjuba era peixe antes de ser leite",
+    "deck":"O nome da marca atravessa tupi, rio, cidade e só depois chega à caixinha no supermercado.",
+    "paragraphs":[
+      "Piracanjuba não nasceu como nome de laticínio. É o nome de um peixe brasileiro, o <em>Brycon orbignyanus</em>.",
+      "O nome vem do tupi e costuma ser explicado pela combinação de termos para <strong>peixe + cabeça + amarelo</strong>: algo como <strong>“peixe de cabeça amarela”</strong>.",
+      "Depois o nome virou nome de lugar. A cidade de Piracanjuba, em Goiás, acabou emprestando o próprio nome ao laticínio fundado ali. A viagem foi mais ou menos esta: <strong>língua indígena → peixe → cidade → leite.</strong>",
+      "Tem um peixe escondido numa caixa de leite. E ele existia muito antes da marca."
+    ],
+    "factbox":{"title":"A parte meio triste","text":"A piracanjuba está oficialmente ameaçada de extinção no Brasil. Barragens e outras alterações dos rios, perda de vegetação ribeirinha e pressão de pesca ajudaram a reduzir suas populações naturais."},
+    "sources":[
+      {"label":"ICMBio — Livro Vermelho da Fauna Brasileira Ameaçada de Extinção","url":"https://www.gov.br/icmbio/"},
+      {"label":"Prefeitura de Piracanjuba — história do município","url":"https://piracanjuba.go.gov.br/historia/"}
+    ]
+  }
+]
