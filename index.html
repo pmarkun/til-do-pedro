@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#e8dfc9">
+  <meta name="description" content="TIL do Pedro — pequenas coisas que valem guardar.">
+  <title>TIL do Pedro</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="app">
+    <section class="paper" aria-label="TIL do Pedro">
+      <header class="masthead">
+        <div>
+          <div class="brand">TIL DO PEDRO</div>
+          <div class="strap">Today I Learned · pequenas coisas que valem guardar</div>
+        </div>
+        <div class="issue" id="issue"></div>
+      </header>
+
+      <section class="viewport" id="viewport" aria-live="polite">
+        <div class="track" id="track"></div>
+        <nav class="nav" aria-label="Navegação entre aprendizados">
+          <button class="arrow" id="prev" aria-label="Anterior">←</button>
+          <div class="dots" id="dots"></div>
+          <button class="arrow" id="next" aria-label="Próximo">→</button>
+        </nav>
+      </section>
+    </section>
+  </main>
+  <script src="./app.js" defer></script>
+</body>
+</html>
